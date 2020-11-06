@@ -49,5 +49,9 @@ int main()
     system("cls");
 
     std::cout << "The letter distance is: " << letterDistance(string1, string2) << " indexes long.\n";
-    getchar();
+    
+    std::cout << "\n";
+    system("pause");
+
+    return 0;
 }
