@@ -1,2 +1,2 @@
 # Letter-Distance
-Just a really bad solution to a really simple problem
+Returns the distance between the char codes.
